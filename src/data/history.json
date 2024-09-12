@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "EdiGen",
+    "startDate": "April, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on youtube upload class", "Used python neural network frameworks"],
+    "imageSrc": "history/edigen.png"
+  }
+]

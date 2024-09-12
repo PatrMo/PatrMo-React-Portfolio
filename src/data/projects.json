@@ -1,0 +1,42 @@
+[
+  {
+    "title": "PatrMo-React-Portfolio",
+    "imageSrc": "projects/portfolioImage.png",
+    "description": "This is a project made to learn React by building a portfolio",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://patrick-molka.netlify.app",
+    "source": "https://github.com/PatrMo/PatrMo-React-Portfolio"
+  },
+  {
+    "title": "EdiGen-Public",
+    "imageSrc": "projects/edigenImage.png",
+    "description": "This is a cloud service that automatically edits and uploads YouTube shorts. Currently not fully open-source.",
+    "skills": ["Pytorch", "TalkNet", "GoogleAPIs"],
+    "demo": "https://github.com/PatrMo/Edigen_Public",
+    "source": "https://github.com/PatrMo/Edigen_Public"
+  },
+  {
+    "title": "BattleShip",
+    "imageSrc": "projects/battleshipImage.png",
+    "description": "This was my grade 12 computer science final project.",
+    "skills": ["Java", "Replit"],
+    "demo": "https://replit.com/@PatrickMolka1/Battleship",
+    "source": "https://replit.com/@PatrickMolka1/Battleship"
+  },
+  {
+    "title": "RocketGUI",
+    "imageSrc": "projects/RocketGUI.png",
+    "description": "Team project built to predict rocket path and landing zones locally using a JavaFX GUI and Matlab for the maths.",
+    "skills": ["Java", "Maven", "MATLAB", "Simulink"],
+    "demo": "https://replit.com/@PatrickMolka1/Battleship",
+    "source": "https://replit.com/@PatrickMolka1/Battleship"
+  },
+  {
+    "title": "Fruit Spoilage Recognizer",
+    "imageSrc": "projects/fruit-spoilage-recognizer.png",
+    "description": "Hackathon entry for Nvidia Workbench Dell HackAI.",
+    "skills": ["Python", "Keras", "Tensorflow"],
+    "demo": "https://github.com/PatrMo/fruits_spoilage_recognizer.git",
+    "source": "https://github.com/PatrMo/fruits_spoilage_recognizer.git"
+  }
+]
