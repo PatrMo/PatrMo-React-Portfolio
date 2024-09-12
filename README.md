@@ -1,5 +1,5 @@
 # My Portfolio Page --- This is Still A WIP
-To be hosted on netifly
+Hosted on netlify @ patrick-molka.netlify.app
 
 Future Plans:
 gsap integration for scroll lock and more interactive webpages
