@@ -2,8 +2,11 @@
 Hosted on netlify @ patrick-molka.netlify.app
 
 Future Plans:
+
 gsap integration for scroll lock and more interactive webpages
+
 Better css color choices
+
 Project demos ==> add UI for interactive projects
 
 
